@@ -35,7 +35,7 @@
 
 ### 👨‍👩‍👧‍👧 팀 구성
 
-[팀 소개 페이지로 이동하기](https://www.notion.so/AFTER-WORK-f6996fa9da9448928340463d6f5bd851) <br/>
+
 Front-end(React) : 3인 <br/>
 Back-end(Spring) : 3인 ([Github Repo](https://github.com/seongbinko/afterwork)) <br/>
 Designer : 1인 ([UI/UX Wireframe](https://xd.adobe.com/view/6930efb5-2686-4843-921c-c8a87578a9e6-3c63/grid)) <br/>
@@ -52,7 +52,6 @@ Designer : 1인 ([UI/UX Wireframe](https://xd.adobe.com/view/6930efb5-2686-4843-
 - Other Tools (Git, Github, notion, Slack etc.)
 ```
 
-## 🔎 I learned
 
 ## 🕹 기능정보
 
